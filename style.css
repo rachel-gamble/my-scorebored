@@ -1,0 +1,20 @@
+/**NOTE - STYLING**/
+.bg-gray {
+    background-color: gray;
+}
+
+
+.button-green {
+    color: greenyellow;
+}
+
+.green-font {
+    color: greenyellow;
+}
+
+.gothic-text {
+    font-family: 'Carrois Gothic', sans-serif;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+/**NOTE - Functions**/
